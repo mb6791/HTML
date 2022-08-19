@@ -1,0 +1,32 @@
+body {
+    background-color: #33ccff;
+    border: 5px solid pink;
+    padding: 15px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.gray {
+    color: gray;
+}
+
+.image {
+    padding: 5px;
+    border: 2px solid pink;
+}
+
+.image:hover {
+    transform: scale(1.1);
+}
+
+hr {
+    border-color: pink;
+    background-color: pink;
+}
+
+.title {
+    color: white;
+    text-decoration: underline;
+}
